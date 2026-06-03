@@ -113,6 +113,8 @@ python scripts/download_dataset.py
 Видео-демонстрация проекта доступна в репозитории:
 
 [Смотреть видео](video/demo.mp4)
+Ссылка на видео: https://drive.google.com/file/d/10vDt_Eu0En5Jd6bVx9kzUOOwPamtPPaL/view?usp=sharing
+
 
 В видео нужно показать:
 
